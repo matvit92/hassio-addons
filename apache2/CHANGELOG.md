@@ -1,4 +1,8 @@
 # Changelog
+## 2.9.5.1
+- proxy enable
+
+# Changelog
 ## 2.9.5
 - automatically update addon-base to version v16.3.3
 
