@@ -1,4 +1,7 @@
 # Changelog
+## 2.10.0.1
+- enabled proxy
+
 ## 2.10.0
 - add multiple PHP extensions: php83-simplexml php83-gd php83-json php83-imap php83-apcu
 
