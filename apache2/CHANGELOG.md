@@ -1,4 +1,7 @@
 # Changelog
+## 2.10.3.1
+- enabled proxy
+
 ## 2.10.3
 - automatically update addon-base to version v17.0.1
 
